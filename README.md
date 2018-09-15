@@ -1,4 +1,7 @@
 # julia_code
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4468f1e28a8c47ea945bebceb9e2ce42)](https://app.codacy.com/app/BurhanH/julia_code?utm_source=github.com&utm_medium=referral&utm_content=BurhanH/julia_code&utm_campaign=Badge_Grade_Dashboard)
+
 Experiments and examples with Julia programming language
 
 How to run the julia script from command line:
