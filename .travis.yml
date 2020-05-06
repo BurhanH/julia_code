@@ -1,6 +1,6 @@
 language: julia
 julia:
-   - 1.0.0
+   - 1.4.1
 
 script:
-    - julia hello.jl
+    - julia code/hello.jl
