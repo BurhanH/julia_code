@@ -23,6 +23,9 @@ The easiest way to use and play around:
 5) In a Launcher menu select Notebook for Julia or Console session for Julia
 6) Done!
 
+![alt text](https://github.com/BurhanH/julia_code/raw/master/jupyter-lab-julia-notebook.png "Julia Notebook") <br>
+
+
 ## Old info (09-10-2018)
 How to use Julia and IDE, in my case I prefer PyCharm.
 Please follow this link:
