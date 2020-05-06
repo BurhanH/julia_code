@@ -16,8 +16,8 @@ The easiest way to use and play around:
 2) Then install the Julia programming language
 3) Run Julia in a terminal and at the prompt, type:
 
-``using Pkg </br>
-  Pkg.add("IJulia")``
+``using Pkg`` </br>
+``Pkg.add("IJulia")``
   
 4) Run Jupyter Lab: ``jupiter lab``
 5) In a Launcher menu select Notebook for Julia or Console session for Julia
