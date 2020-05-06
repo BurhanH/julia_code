@@ -15,8 +15,10 @@ The easiest way to use and play around:
 1) Install Jupyter Lab (for Windows OS I highly recommend to use Conda/Anaconda)
 2) Then install the Julia programming language
 3) Run Julia in a terminal and at the prompt, type:
-``using Pkg
+
+``using Pkg </br>
   Pkg.add("IJulia")``
+  
 4) Run Jupyter Lab: ``jupiter lab``
 5) In a Launcher menu select Notebook for Julia or Console session for Julia
 6) Done!
